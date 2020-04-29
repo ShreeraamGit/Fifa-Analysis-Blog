@@ -33,7 +33,7 @@ Markdown cells were used to assist in walking through the thought process for in
 
 ## Results.
 
-The main findings of the code can be found at the post available here.
+The main findings of the code can be found at the post available here, https://medium.com/@shreeraamalagarsamysethuraj/few-facts-nobody-told-you-about-european-football-and-the-managers-34ef55cecb88
 
 ## Licensing, Authors, Acknowledgements
 I Must give credit to Kaggel for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available here. Otherwise, feel free to use the code here as you would like!
